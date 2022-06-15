@@ -18,5 +18,6 @@ public class lvl2done : MonoBehaviour
         {
             SceneManager.LoadScene("Level3");
         }
+        Debug.Log(player);
     }
 }
